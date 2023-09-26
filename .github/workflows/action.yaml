@@ -1,6 +1,6 @@
 name: Must run on custom runner
 
-on:push
+on: push
 
 jobs:
   init:
